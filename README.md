@@ -1,5 +1,5 @@
 <h1 align="center"># Mobile_app</h1>
-<h1 align="center">Repo for Blended-9 team work</h1>
+<h1 align="center">Repo for teamwork group Blended-9</h1>
 
 <h1 align="center">Blended-9</h1>
 
