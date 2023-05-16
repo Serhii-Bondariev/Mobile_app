@@ -1,0 +1,55 @@
+.section {
+  width: 1278px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+}
+
+.link {
+  list-style: none;
+}
+
+.list {
+  list-style: none;
+}
+
+/* Watch the video */
+
+.box-section {
+  display: flex;
+  gap: 161px;
+}
+
+.watch-the-video {
+  background-color: #06071b;
+  padding-top: 60px;
+  padding-bottom: 0;
+}
+
+.section-title {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.watch-the-video-description {
+  max-width: 479px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.watch-the-video-section {
+  display: flex;
+}
+
+.desription-section {
+}
+
+.watch-the-video-image {
+  max-height: 282px;
+}
